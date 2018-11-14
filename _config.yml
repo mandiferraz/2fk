@@ -2,14 +2,14 @@
 baseurl: "/2fk"
 url: "https://mandiferraz.github.io"
 title: 2fk # site's title
-description: "Arquitetura" # used by search engines
+description: "Arquitetura e Engenharia" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
-  avatar: assets/img/triangle.svg
+  title: 2fk Arquitetura e Engenharia # blog's title
+  avatar: assets/img/logo.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
